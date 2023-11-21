@@ -26,7 +26,7 @@ define( 'DB_NAME', 'database_name_here sd' );
 define( 'DB_USER', 'username_here' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'password_here' );
+define( 'DB_PASSWORD', 'qwertyujfkdsmkf' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
