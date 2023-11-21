@@ -24,7 +24,6 @@ define( 'DB_NAME', 'database_name_here sd' );
 
 /** Database username */
 define( 'DB_USER', 'username_here' );
-
 define( 'DB_USER', 'username_here' );
 
 /** Database password */
