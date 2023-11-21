@@ -24,8 +24,14 @@ define( 'DB_NAME', 'database_name_here sd' );
 
 /** Database username */
 define( 'DB_USER', 'username_here' );
+<<<<<<< Updated upstream
 define( 'DB_USER', 'username_here' );
+=======
+
+
+>>>>>>> Stashed changes
 /** Database password */
+define( 'DB_PASSWORD', 'qwertyujfkdsmkf' );
 define( 'DB_PASSWORD', 'qwertyujfkdsmkf' );
 
 /** Database hostname */
